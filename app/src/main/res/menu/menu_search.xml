@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/act_settings"
+        android:icon="@drawable/ic_settings"
+        android:iconTint="@color/colorAccent"
+        app:showAsAction="ifRoom"
+        android:title="@string/empty_string"
+        tools:targetApi="o" />
+
+    <item
+        android:id="@+id/act_fav"
+        android:icon="@drawable/ic_favorite"
+        android:iconTint="@color/colorAccent"
+        app:showAsAction="ifRoom"
+        android:title="@string/empty_string"
+        tools:targetApi="o" />
+</menu>

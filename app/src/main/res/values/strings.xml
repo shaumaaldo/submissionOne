@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name" translatable="false">Github Search User</string>
+    <string name="share_btn">share</string>
+    <string name="favorite_btn">favourite</string>
+    <string name="detail">detail</string>
+    <string name="item_name">itemName</string>
+    <string name="img_user">img user</string>
+    <string name="iv_content_detail_user">Image from github</string>
+    <string name="share_icon">Share icon button</string>
+    <string name="username">Username</string>
+    <string name="empty_string">-</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="follower">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="repository">Repository</string>
+    <string name="search_icon">Ikon Pencarian</string>
+    <string name="search_hint">Nama user github</string>
+    <string name="title_search">Pencarian User Github</string>
+    <string name="fab_favourite_button">fab favourite button</string>
+</resources>
